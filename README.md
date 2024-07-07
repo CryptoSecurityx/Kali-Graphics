@@ -1,14 +1,12 @@
 # Pentest-Tools-Auth
 
 - Ferramentas que geralmente uso em minha analises em pentest e bug bounty
-
-
   
 - Ativar inferface:
 
-`systemctl set-default graphical.target`
+          `systemctl set-default graphical.target`
 
-`sudo reboot`
+          `sudo reboot`
 
 - Desativar e Habilitar SSH
 
@@ -16,5 +14,5 @@
 
 `systemctl set-default multi-user.target`
 
-``
+
 
