@@ -1,17 +1,25 @@
-# Kali Ativar ou Desativar Interface Grafica com Terminal
+# Kali Linux - Ativar ou Desativar Interface Grafica com Terminal
 
-  
-- Ativar inferface:
+# How to Use
+` sudo chmod 777 `
+` ./DisableGraph.sh `
+` ./EnableGraph.sh `
 
-          `systemctl set-default graphical.target`
+ # Install and Use SSH 
 
-          `sudo reboot`
+          `sudo apt-get update`
 
-- Desativar e Habilitar SSH
+          `sudo apt-get install ssh`
 
-          - `systemctl get-default`
+          `sudo service ssh start`
+
+          `systemctl enable ssh`
           
-          `systemctl set-default multi-user.target`
+          `nano /etc/ssh/sshd_config`
+
+
+          - change port and restart - ssh service service ssh restart`
+
 
 
 
