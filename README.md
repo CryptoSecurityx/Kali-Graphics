@@ -7,7 +7,7 @@
 
 ` ./EnableGraph.sh `
 
- # Install and Use SSH 
+ # Install Change Port and use SSH 
 
           `sudo apt-get update`
 
