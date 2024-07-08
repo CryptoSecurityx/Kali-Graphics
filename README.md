@@ -1,7 +1,9 @@
 # Kali Linux - Ativar ou Desativar Interface Grafica com Terminal
 
 # How to Use
-` sudo chmod 777 `
+` git clone https://github.com/CryptoSecurityx/Kali-Graphics.git `
+
+ `sudo chmod 777 `
 
 ` ./DisableGraph.sh `
 
