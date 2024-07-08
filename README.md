@@ -2,7 +2,9 @@
 
 # How to Use
 ` sudo chmod 777 `
+
 ` ./DisableGraph.sh `
+
 ` ./EnableGraph.sh `
 
  # Install and Use SSH 
