@@ -19,8 +19,9 @@
           
           `nano /etc/ssh/sshd_config`
 
-
-          - change port and restart - ssh service service ssh restart`
+          change new port 22 to your port
+          
+          - sudo service ssh restart`
 
 
 
